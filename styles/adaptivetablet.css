@@ -1,0 +1,86 @@
+@media screen and (min-width: 768px) and (max-width: 1024px) {
+  .general {
+    width: 1024px;
+  }
+  .top_block {
+    background-image: url(../images/man2.jpg);
+    height: 600px;
+    width: 1024px;
+  }
+  .iphone-image {
+    top: 37%;
+    right: 12%;
+  }
+  .color-block {
+    width: 1024px;
+  }
+  .color-block-right {
+    width: 512px;
+  }
+  .color-block-left {
+    width: 512px;
+  }
+  .purple-block {
+    width: 256px;
+  }
+  .sun-photo {
+    width: 256px;
+  }
+  .girl {
+    width: 256px;
+  }
+  .green-block {
+    width: 256px;
+  }
+  .blue-block {
+    width: 256px;
+  }
+  .pink-block {
+    width: 256px;
+  }
+  .white {
+    width: 512px;
+  }
+ .details {
+   width: 90%;
+   height: 420px;
+ }
+  .more-power-block {
+    max-width: 450px;
+  }
+  .more-power-text {
+    font-size: 15px;
+  }
+  .green-block-first {
+    padding-top: 25px;
+    float: left;
+    max-width: 300px;
+    margin-right: 30px;
+    margin-left: 23px;
+  }
+  .green-block-next {
+    max-width: 28%;
+  }
+  .block-buy {
+    width: 1024px;
+    }
+    .block-buy-first {
+      margin-left: 80px;
+      max-width: 350px;
+    }
+    .block-buy-second {
+      margin-left: 40px;
+      max-width: 350px;
+    }
+    footer {
+      width: 1024px;
+      height: 350px;
+      background-color: #192431;
+      }
+      .block-footer-left {
+        margin-left: 100px;
+      }
+    .no-spam {
+      width: 65%;
+    }
+}

@@ -1,0 +1,114 @@
+@media screen and (max-width: 576px) {
+.general {
+width: 576px;
+}
+.iphone-image {
+  display: none;
+}
+h1 {
+  font-size: 30px;
+}
+.start-something-text {
+  font-size: 17px;
+}
+.start-something-new-left-block {
+  width: 95%;
+  float: none;
+}
+.start-something-new-right-block {
+  width: 95%;
+  float: none;
+  padding-top: 10px;
+}
+.color-block {
+  max-width: 540px;
+  height: 600px;
+}
+.color-block-right, .color-block-left {
+  float: none;
+}
+h4 {
+  font-size: 15px;
+}
+.details {
+  margin-bottom: 40px;
+}
+.details-block-left {
+  width: 45%;
+}
+.details-block-next {
+  width: 45%;
+}
+.adaptiwe-margin {
+  margin: 0px;
+}
+.more-power-block {
+  padding-left: 60px;
+}
+.more-power-text {
+  font-size: 14px;
+}
+.title-green-block {
+  margin-left: 0;
+  text-align: center;
+}
+.green-block-first {
+  margin-left: 40px;
+  padding-top: 0;
+  float: none;
+  max-width: 500px;
+  margin-right: 30px;
+}
+.green-block-subtitle {
+  font-size: 18px;
+}
+.green-block-text {
+  font-size: 14px;
+  line-height: 1.5em;
+}
+.green-block-next {
+  padding-top: 0;
+  float: none;
+  max-width: 500px;
+  margin-left: 40px;
+}
+.padding-adaptive-green {
+  padding-bottom: 45px;
+}
+.block-buy {
+  padding-top: 30px;
+}
+.block-buy-first {
+  margin-top: 0;
+  max-width: 350px;
+  min-height: 200px;
+  float: none;
+}
+.block-buy-second {
+  margin-bottom: 40px;
+  margin-left: 0;
+  max-width: 350px;
+  float: none;
+}
+.footer-title  {
+  font-size: 20px;
+}
+.get-in-text {
+  font-size: 15px;
+}
+.block-footer-left {
+  max-width: 450px;
+  min-height: 300px;
+}
+.foter-subtitle {
+  font-size: 15px;
+}
+.small-block-footer {
+  width: 143px;
+}
+.block-footer-right {
+  max-width: 350px;
+  min-height: 230px;
+  float: left;
+}
+}
